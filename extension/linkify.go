@@ -4,11 +4,11 @@ import (
 	"bytes"
 	"regexp"
 
-	"github.com/yuin/goldmark"
-	"github.com/yuin/goldmark/ast"
-	"github.com/yuin/goldmark/parser"
-	"github.com/yuin/goldmark/text"
-	"github.com/yuin/goldmark/util"
+	"github.com/abdullahiqbal1996/goldmark"
+	"github.com/abdullahiqbal1996/goldmark/ast"
+	"github.com/abdullahiqbal1996/goldmark/parser"
+	"github.com/abdullahiqbal1996/goldmark/text"
+	"github.com/abdullahiqbal1996/goldmark/util"
 )
 
 var wwwURLRegxp = regexp.MustCompile(`^www\.[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-z]+(?:[/#?][-a-zA-Z0-9@:%_\+.~#!?&/=\(\);,'">\^{}\[\]` + "`" + `]*)?`) //nolint:golint,lll

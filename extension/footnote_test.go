@@ -3,13 +3,13 @@ package extension
 import (
 	"testing"
 
-	"github.com/yuin/goldmark"
-	gast "github.com/yuin/goldmark/ast"
-	"github.com/yuin/goldmark/parser"
-	"github.com/yuin/goldmark/renderer/html"
-	"github.com/yuin/goldmark/testutil"
-	"github.com/yuin/goldmark/text"
-	"github.com/yuin/goldmark/util"
+	"github.com/abdullahiqbal1996/goldmark"
+	gast "github.com/abdullahiqbal1996/goldmark/ast"
+	"github.com/abdullahiqbal1996/goldmark/parser"
+	"github.com/abdullahiqbal1996/goldmark/renderer/html"
+	"github.com/abdullahiqbal1996/goldmark/testutil"
+	"github.com/abdullahiqbal1996/goldmark/text"
+	"github.com/abdullahiqbal1996/goldmark/util"
 )
 
 func TestFootnote(t *testing.T) {

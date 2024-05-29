@@ -6,11 +6,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/yuin/goldmark"
-	"github.com/yuin/goldmark/extension"
-	"github.com/yuin/goldmark/parser"
-	"github.com/yuin/goldmark/renderer/html"
-	"github.com/yuin/goldmark/util"
+	"github.com/abdullahiqbal1996/goldmark"
+	"github.com/abdullahiqbal1996/goldmark/extension"
+	"github.com/abdullahiqbal1996/goldmark/parser"
+	"github.com/abdullahiqbal1996/goldmark/renderer/html"
+	"github.com/abdullahiqbal1996/goldmark/util"
 )
 
 func fuzz(f *testing.F) {

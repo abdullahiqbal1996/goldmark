@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"github.com/yuin/goldmark/ast"
-	"github.com/yuin/goldmark/text"
+	"github.com/abdullahiqbal1996/goldmark/ast"
+	"github.com/abdullahiqbal1996/goldmark/text"
 )
 
 type emphasisDelimiterProcessor struct {

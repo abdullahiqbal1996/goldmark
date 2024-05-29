@@ -5,9 +5,9 @@ import (
 	"os"
 	"testing"
 
-	. "github.com/yuin/goldmark"
-	"github.com/yuin/goldmark/renderer/html"
-	"github.com/yuin/goldmark/testutil"
+	. "github.com/abdullahiqbal1996/goldmark"
+	"github.com/abdullahiqbal1996/goldmark/renderer/html"
+	"github.com/abdullahiqbal1996/goldmark/testutil"
 )
 
 type commonmarkSpecTestCase struct {

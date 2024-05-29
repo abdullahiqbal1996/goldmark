@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"github.com/yuin/goldmark/ast"
-	"github.com/yuin/goldmark/text"
-	"github.com/yuin/goldmark/util"
+	"github.com/abdullahiqbal1996/goldmark/ast"
+	"github.com/abdullahiqbal1996/goldmark/text"
+	"github.com/abdullahiqbal1996/goldmark/util"
 )
 
 type codeBlockParser struct {

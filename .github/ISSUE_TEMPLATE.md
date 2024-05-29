@@ -1,4 +1,4 @@
-goldmark has [https://github.com/yuin/goldmark/discussions](Discussions) in github.
+goldmark has [https://github.com/abdullahiqbal1996/goldmark/discussions](Discussions) in github.
 You should post only issues here. Feature requests and questions should be posted at discussions.
 
 

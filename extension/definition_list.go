@@ -1,14 +1,14 @@
 package extension
 
 import (
-	"github.com/yuin/goldmark"
-	gast "github.com/yuin/goldmark/ast"
-	"github.com/yuin/goldmark/extension/ast"
-	"github.com/yuin/goldmark/parser"
-	"github.com/yuin/goldmark/renderer"
-	"github.com/yuin/goldmark/renderer/html"
-	"github.com/yuin/goldmark/text"
-	"github.com/yuin/goldmark/util"
+	"github.com/abdullahiqbal1996/goldmark"
+	gast "github.com/abdullahiqbal1996/goldmark/ast"
+	"github.com/abdullahiqbal1996/goldmark/extension/ast"
+	"github.com/abdullahiqbal1996/goldmark/parser"
+	"github.com/abdullahiqbal1996/goldmark/renderer"
+	"github.com/abdullahiqbal1996/goldmark/renderer/html"
+	"github.com/abdullahiqbal1996/goldmark/text"
+	"github.com/abdullahiqbal1996/goldmark/util"
 )
 
 type definitionListParser struct {
